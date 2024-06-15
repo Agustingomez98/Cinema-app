@@ -17,6 +17,7 @@ export const Card = ({id, capa, titulo}) => {
             <h2>{titulo}</h2>
             </Link>
             <img 
+            className={styles.icon}
             src={icon} 
             alt="icono favorito" 
             onClick={()=> agregarFavorito({id,titulo,capa})}/>

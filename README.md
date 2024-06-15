@@ -1,8 +1,28 @@
-# React + Vite
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+<h1 align="center">Cinema app</h1>
 
-Currently, two official plugins are available:
+<h4>Proyecto realizado en el curso de Front End G6 - ONE brindado por Alura-Latam y Oracle.</h4>
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+<p align="center"> <img src="public\readmeIMG\home.png"> </p>
+
+## Contenido del curso
+* Iniciar un proyecto de React
+* Construir componentes y páginas
+* Implementar rutas normales, dinámicas y anidadas
+* Aplicar los ganchos useState, useParams, useEffect y useContext
+* Comprender cómo funcionan los contextos de React
+* Consumir una API
+* Implementar el proyecto en Vercel
+
+
+## Tecnologias utilizadas en el proyeto
+* HTML
+* CSS
+* Javascript
+* React
+* NodeJS
+
+## Dependencias
+* Styled-components
+* Json-server
+* react-dom

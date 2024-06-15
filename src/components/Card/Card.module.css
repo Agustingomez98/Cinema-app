@@ -3,6 +3,8 @@
     margin-top: .5em;
     width: 282px;
     background-color: var(---gris);
+    display: flex;
+    flex-direction: column;
 }
 
 .image{
@@ -12,4 +14,11 @@
 .link{
     text-decoration: none;
     color: black;
+}
+
+.icon{
+    display: flex;
+    width: 2em;
+    margin-bottom: 0;
+    align-self: center;
 }

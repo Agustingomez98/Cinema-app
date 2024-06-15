@@ -26,7 +26,6 @@ export const Player = () => {
         </Titulo>
         <section className={styles.container}>
             <iframe
-                width="100%" height="100%"
                 src={video.link}
                 title={video.titulo}
                 frameborder="0"
