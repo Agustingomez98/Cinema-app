@@ -31,4 +31,4 @@
 <a>https://cinema-app-pink.vercel.app/</a>
 
 ## Aclaración
-<p>No se aplico responsive disign al proyecyto debido que la finalidad del mismo constaba de aplicar conceptos de React</p>
+<p>No se aplico responsive design al proyecyto debido que la finalidad del mismo constaba de aplicar conceptos de React</p>
